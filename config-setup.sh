@@ -8,7 +8,7 @@
 #Pre-requisite checks:
 #check for dialog and prompt to install if it is not present
 
-
+#Please note: this is the testing branch
 
 function _main () {
 
